@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2653718839",
+    "project_id": "food-cafe-9115c",
+    "storage_bucket": "food-cafe-9115c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2653718839:android:af4b1162ccae24af9cb2b2",
+        "android_client_info": {
+          "package_name": "com.example.foodcafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2653718839-8gvaj0q0k1a4ts9tcre83qmdootttdvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKioRPq8PJnPKifsRX_1rR0aDQPcitAYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2653718839-8gvaj0q0k1a4ts9tcre83qmdootttdvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
